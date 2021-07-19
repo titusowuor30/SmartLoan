@@ -1,2 +1,2 @@
 # SmartLoan
-The user interface for LoanMe an android loan app
+The user interface for SmartLoan an android loan app
